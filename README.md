@@ -7,4 +7,6 @@ Kaggle : https://www.kaggle.com/tanishkabhatnagar111
 
 Leetcode : https://leetcode.com/u/tanishkabhatnagar111/
 
+Learnings 2026 : https://github.com/2026-AI
+
 Email : tanishkabhatnagar2025@gmail.com
